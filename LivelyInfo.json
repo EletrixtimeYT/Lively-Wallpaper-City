@@ -1,0 +1,14 @@
+{
+  "AppVersion": "0.9.5.5",
+  "Title": "Car",
+  "Thumbnail": "img.png",
+  "Preview": "img.png",
+  "Desc": "City",
+  "Author": "EletrixTime",
+  "License": null,
+  "Contact": "https://eletrixtimeyt.github.io",
+  "Type": 1,
+  "FileName": "city.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
